@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, This is Abhinay Singh Bhadauria</h1>
 <h3 align="center">Studying CSE at VIT Bhopal |MERN Stack Developer | C++ | Javscript</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="350" height="270" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Next.js, and other MERN technologies**
 
-- 💬 Ask me about **react,gsap**
+- 💬 Ask me about **react and gsap**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhinay-s-bhadauria-a7b588250/**
 
