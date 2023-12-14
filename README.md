@@ -1,4 +1,4 @@
-![logo](https://github.com/AbhinayBhadauria99/AbhinayBhadauria99/blob/main/banner2.png)
+<!--![logo](https://github.com/AbhinayBhadauria99/AbhinayBhadauria99/blob/main/banner2.png)--->
 <h1 align="center">Hi 👋, This is Abhinay Singh Bhadauria</h1>
 <h3 align="center">Studying CSE at VIT Bhopal |MERN Stack Developer | C++ | Javscript</h3>
 <img align="right" width="350" height="270" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
