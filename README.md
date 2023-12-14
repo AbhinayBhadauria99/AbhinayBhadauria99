@@ -1,4 +1,4 @@
-![logo](https://github.com/AbhinayBhadauria99/AbhinayBhadauria99/blob/main/Github_Banner.png)
+![logo](https://github.com/AbhinayBhadauria99/AbhinayBhadauria99/blob/main/Coding%20GIF%20-%20Coding%20-%20Discover%20%26%20Share%20GIFs.gif)
 <h1 align="center">Hi 👋, This is Abhinay Singh Bhadauria</h1>
 <h3 align="center">Studying CSE at VIT Bhopal |MERN Stack Developer | C++ | Javscript</h3>
 <img align="right" width="350" height="270" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
