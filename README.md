@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, This is Abhinay Singh Bhadauria</h1>
 <h3 align="center">Studying CSE at VIT Bhopal |MERN Stack Developer | C++ | Javscript</h3>
 
-- 🙋‍♂️ I’m learning to build **Microservices based advanced backend projects**
+- 🙋‍♂️ I build **Microservices based advanced backend projects**
 - 💬 Ask me about **react and gsap**
 - 🔭 I’m currently working on building scalable and efficient MERN stack applications.
 - 🌱 I’m passionate about continuous learning and staying updated with the latest technologies.
